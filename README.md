@@ -13,3 +13,4 @@ astar.cpp 是使用了A* 算法为主的解决方案。:+1:
 ps： 可能出现的问题是程序安全性方面的问题，解决方法是在项目属性中 添加 _CRT_SECURE_NO_WARNINGS
 
 
+![Image text](https://github.com/cabbage666/2019ZTE-GAME/blob/master/_CRT_SECURE_NO_WARNINGS.png)
